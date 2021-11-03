@@ -3,7 +3,7 @@
 <p align="center">
   <samp>
     <br><br>
-    A passionate Unity Dev and Profissional Full-Stack developer from Brazil
+    A passionate Unity Dev and Professional Full-Stack developer from Brazil
     <br><br>
     I’m currently working with Unity2D
     <br><br>
