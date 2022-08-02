@@ -5,7 +5,7 @@
     <br><br>
     A passionate Unity Dev and Professional C# Back-end developer from Brazil
     <br><br>
-    I’m currently working with Unity2D
+    I’m currently working with Back-end C#|.NET Development
     <br><br>
      & looking to collaborate on Unity Projects
     <br><br>
